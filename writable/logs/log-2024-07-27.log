@@ -1,0 +1,639 @@
+CRITICAL - 2024-07-27 05:27:49 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:30:31 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:30:31 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:30:32 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:30:32 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:30:32 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:31:02 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:32:57 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:32:58 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:32:59 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:36:53 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:36:54 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:36:55 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:36:55 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:38:06 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:38:06 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:39:25 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:39:27 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:39:28 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:39:28 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:39:28 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:39:30 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:43:49 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:43:50 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:43:50 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:43:50 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:44:19 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:45:58 --> Error: Class "App\Models\EmployeeModel" not found
+[Method: GET, Route: employee]
+in APPPATH\Controllers\Employee.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\public\\index.php')
+CRITICAL - 2024-07-27 05:56:52 --> ErrorException: Undefined variable $title
+[Method: GET, Route: employee/create]
+in APPPATH\Views\employee\create.php on line 6.
+ 1 APPPATH\Views\employee\create.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\create.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/create', [], true)
+ 5 APPPATH\Controllers\Employee.php(16): view('/employee/create')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 05:57:20 --> ErrorException: Undefined variable $title
+[Method: GET, Route: employee/create]
+in APPPATH\Views\employee\create.php on line 6.
+ 1 APPPATH\Views\employee\create.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $title', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\create.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\create.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/create', [], true)
+ 5 APPPATH\Controllers\Employee.php(16): view('/employee/create')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->create()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:46:20 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: employee]
+in APPPATH\Views\employee\index.php on line 45.
+ 1 APPPATH\Views\employee\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/index', [], true)
+ 5 APPPATH\Controllers\Employee.php(11): view('/employee/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:46:20 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: employee]
+in APPPATH\Views\employee\index.php on line 45.
+ 1 APPPATH\Views\employee\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/index', [], true)
+ 5 APPPATH\Controllers\Employee.php(11): view('/employee/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:46:20 --> ErrorException: Undefined array key "id"
+[Method: GET, Route: employee]
+in APPPATH\Views\employee\index.php on line 45.
+ 1 APPPATH\Views\employee\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/index', [], true)
+ 5 APPPATH\Controllers\Employee.php(11): view('/employee/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:56:24 --> ErrorException: Undefined variable $employees
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 31.
+ 1 APPPATH\Views\employee\view.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employees', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\view.php', 31)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 5 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:57:27 --> ErrorException: Undefined variable $employees
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 32.
+ 1 APPPATH\Views\employee\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employees', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\view.php', 32)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 5 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:57:27 --> ErrorException: Undefined variable $employees
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 32.
+ 1 APPPATH\Views\employee\view.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $employees', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\view.php', 32)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 5 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:58:06 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:58:56 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:58:57 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:58:57 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:58:57 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:59:47 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 06:59:47 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 07:00:15 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 34.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 07:02:37 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 31.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 07:02:38 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 31.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 07:03:17 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 31.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 07:03:22 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/6]
+in APPPATH\Views\employee\view.php on line 31.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('6')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 07:04:13 --> TypeError: Cannot access offset of type string on string
+[Method: GET, Route: employee/view/4]
+in APPPATH\Views\employee\view.php on line 31.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/view', [], true)
+ 4 APPPATH\Controllers\Employee.php(66): view('/employee/view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->view('4')
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 07:30:27 --> CodeIgniter\HTTP\Exceptions\HTTPException: Could not move file "phpB9E7.tmp" to "C:\xampp\first\htdocs\Task\codeIgniter_crud\app/Images/". Reason: 
+[Method: POST, Route: employee/store]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 154.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(154): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('phpB9E7.tmp', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app/Images/', '')
+ 2 APPPATH\Controllers\Employee.php(29): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app/Images/', 'C:\\xampp\\first\\tmp\\phpB9E7.tmp')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->store()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 09:06:03 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+[Method: PUT, Route: employee/update/2]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 142.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(142): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Employee.php(46): CodeIgniter\HTTP\Files\UploadedFile->move('app/Images/')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->update('2')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 09:07:14 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+[Method: PUT, Route: employee/update/4]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 142.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(142): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Employee.php(46): CodeIgniter\HTTP\Files\UploadedFile->move('app/Images/')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->update('4')
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 09:09:01 --> ErrorException: include(templates/header): Failed to open stream: No such file or directory
+[Method: GET, Route: employee]
+in APPPATH\Views\employee\index.php on line 12.
+ 1 APPPATH\Views\employee\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(templates/header): Failed to open stream: No such file or directory', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php', 12)
+ 2 APPPATH\Views\employee\index.php(12): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/index', [], true)
+ 6 APPPATH\Controllers\Employee.php(11): view('/employee/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 09:09:01 --> ErrorException: include(templates/header): Failed to open stream: No such file or directory
+[Method: GET, Route: employee]
+in APPPATH\Views\employee\index.php on line 12.
+ 1 APPPATH\Views\employee\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(templates/header): Failed to open stream: No such file or directory', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php', 12)
+ 2 APPPATH\Views\employee\index.php(12): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/index', [], true)
+ 6 APPPATH\Controllers\Employee.php(11): view('/employee/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-07-27 09:09:02 --> ErrorException: include(templates/header): Failed to open stream: No such file or directory
+[Method: GET, Route: employee]
+in APPPATH\Views\employee\index.php on line 12.
+ 1 APPPATH\Views\employee\index.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(templates/header): Failed to open stream: No such file or directory', 'C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php', 12)
+ 2 APPPATH\Views\employee\index.php(12): include()
+ 3 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\first\\htdocs\\Task\\codeIgniter_crud\\app\\Views\\employee\\index.php')
+ 4 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('/employee/index', [], true)
+ 6 APPPATH\Controllers\Employee.php(11): view('/employee/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Employee->index()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Employee))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
